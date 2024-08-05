@@ -42,11 +42,11 @@ Linux distros
 -------------
 Different groups and organizations came forward and build Linux operating system with their own choice of software tools and utilities, configurations and package managers/installers packaged together and distributed as an Linux operating system.
 	
-								    tools & utilities
-						          		   |
-							configurations - kernal - graphical user interface
-									   |
-									installer
+							tools & utilities
+										|
+configurations - kernal - graphical user interface
+										|
+								installer
 	
 so users around the world, can directly download the linux distros provided by these organizations and install them quickly and use it, there by which linux became General Purpose operating system 
 
@@ -70,9 +70,6 @@ Redhat distribution:
 1. CentOS
 2. Fedora
 3. Redhat enterprise Linux
-
-
-I/o processor will perform I/o operation
 
 
 
