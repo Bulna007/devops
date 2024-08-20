@@ -34,17 +34,17 @@ using the tree command we can see the directories under the "/"	by using the bel
 cd /
 tree -L 1
 -------------------------------------------------------------------------------------------------------------------------
+Learning Linux operating system
+1. File and Folders
+2. Install or upgrade softwares
+3. Users, Grant permissions allowing them to access
+4. Programs and manage them
+5. Networking 
+6. Securing Files and Programs
+7. Manage system resources
+8. utility programs
 
-Introduction to Linux
-Linux distros
-Linux Features
-Linux Architecture
-Shell Interpreter
-Shell Bashshell command structure
-Filesystem
-Linux Filesystem directory structure
-	
-	
+
 	
 	
 	

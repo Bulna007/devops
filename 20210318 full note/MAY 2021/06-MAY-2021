@@ -68,69 +68,8 @@ if we want to see top 20 lines we can use
 head -20 filename
 head -n filename
 
-
 tail is used for seeing/accessing the last lines of file
 tail app.log = by default displays the last 10 lines of the file.
   
 tail -n filename = bottom n number of lines
 tail -f filename = displays the contents of log file in flow without stopping.
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  

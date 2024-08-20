@@ -1,6 +1,6 @@
 File Management Commands
 1. how to create an empty file? = touch filename
-2. how know the current directory? = pwd
+2. how to know the current directory? = pwd
 3. how to print a message to the Terminal/STDOUT? = echo "message"
 4. how to see the contents of a File? = cat filename
 5. How to create a file with data? = echo "contents" > filename (may or may not exists) >> (append)
@@ -81,84 +81,3 @@ what is the type of accounts or logo by looking at the filename, we cannot ident
 To help us in identifying the file types linux as provided an command called file.
   
 file filename = tells the type of the file.
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
