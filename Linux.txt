@@ -1,0 +1,1898 @@
+Q.) Why do we need a software application, what is the purpose of it?
+Ans: An enterprise business organization to provide their business services or carry out day-to-day business activities in conducting the business requires software. 
+
+If the business organization is carrying out the business services manually without any software, they run into several problems:
+
+a. The speed at which the business organization provides the business services to their customers would be very slow, thus results in great dis-satisfaction to their customers
+
+b. Since the business is carried manually, there is a high chance of performing errorneous operations.
+
+c. Chanes of conducting the fraud would be high.
+
+d. The man power required in running the business is more, due to which the cost of conducting the business would be high.
+
+
+To eliminate the problems in manually conducting the business, the software applications are introduced.
+There are lot of advantages of using software in conducting the business as below:
+
+a. Speed at which we perform the business operation would be very high.
+
+b. Accuracy in carrying these operation would be very high, there is no chance of mistake or human error.
+
+c. Eliminates the fraud
+
+d. Man power needed in conducting the business will be less, due to which the cost of running the business will come down.
+
+e. The business services are made globally accessible to everyone around the world.
+
+
+Q.) What is an software application?
+Ans: Software application comprises of bunch/group of programs written with instructions using an programming language like
+a. Java
+b. .Net
+c. Python
+d. PHP
+e. Scala
+f. Ruby
+etc
+
+Through which we fullfill the needs or requirements of an business organization.
+
+Q.) What are the stages in development and delivery of the software application takes place?
+Ans:
+SDLC(Software Development Lifecycle)
+There are 5 phases in which a software application is being built and delivered:
+
+1. Requirement Gathering & Analysis
+The business analyst understands throughly the requirements of the business organization and writes the business requirement documents and passes it as an input to the IT services development team.
+
+The development team throughly goes through the requirement document, understand and analyze them inorder to build the software.
+
+2. Design
+In this phase, the development team gathers/analyze how the system has to be build based on the analysis they perform previously.
+
+3. Implementation/Coding
+The actual development of the system comprises by choosing an programming language that better suites for the requirements.
+
+4. Testing
+The QA entineers will test and certify the software system that is build is function based on the requirement or not.
+
+5. Delivery/Maintainance
+The support engineering team is responsible for deploying/delivering the application into the production environment and making it alive or accessible to the users of the application around the world.
+
+People:
+1. Product Owner/Business Analyst
+2. Developers
+3. QA Engineers
+4. Support/Operational Engineers
+5. Customer/End-users
+
+Phases:
+1. Requirement Gathering and Analysis
+2. Design
+3. Implementation/Coding
+4. Testing
+5. Delivery
+
+
+Stages (Delivery) :
+Q.) What are the stages of delivery?
+Ans: There are 3 stages in which application is delivered:
+1. Devlopment Environment
+2. QA Environment
+	2.1. QA Environment
+	2.2. UAT (User Acceptancy Testing)
+	2.3. Stage (Pre-Prod)
+	2.4. Performance/Stress Environment
+3. Production Environment
+-------------------------------------------------
+Q.) What is devops?
+Ans: A change in culture and adoption of new tools and technologies for fast-paced application development and fast-paced application delivery is called "devops".
+
+Note:- Goal: Fast-paced application development and fast-paced application delivery
+
+Q.) Why do we need fast-paced application development and delivery?
+Ans: There are several reasons for an organization to adopt the aspect of fast-paced development and delivery:
+a. To stay ahead of the competitors in the market
+The more we innovate and the faster we deliver, we will be better interms of business than our competitors.
+
+b. To increase the ROI for the customer so that logitivity of the business can be achieved
+When the organization delivers more features quite faster to the market, the customer feels return of investment and continue to stay with the organization, there by which longitivity of the business is guaranteed.
+
+c. To reduce the cost of IT infrastructure and development cost in delivering the system
+If we can develop and deliver the software quickly we can bring down the overall cost of building/maintaining the software applications, so that everyone can adopt right from(enterprise to small-scale businesses) and can use the software.
+-----------------------------------------------
+Q.) What is a Process Model?
+Ans: A Process Model defines flow of activities or actions or standard guidelines or steps that must be followed in building and delivering the software application.
+
+There are various different process models defined by different experts in the market as below:
+1. Waterfall
+2. Iterative/Incremental Model
+3. Spiral
+4. Prototype
+5. Agile Methodologies
+
+---------------------------------------------------------------
+Q.) What is an computer?
+Ans:
+Computer is an electronic device that is used for performing computation operation.
+
+There are 3 main parts are there within it:
+1. Monitor
+2. Keyboard/Mouse
+3. CPU
+
+1. Monitor
+----------
+Monitor is an visual display that acts as an output device, that is used for rendering or displaying the output of an computation operation.
+
+2. Keyboard/Mouse
+-----------------
+These are the input devices through which the end-user is going to pass the input data to the computer asking to perform computation operation.
+
+3. CPU
+------
+CPU stands for "Central Processing Unit". It is the key/core component of the computer.
+
+There are 4 main components are there within the CPU of the computer:
+	3.1. Processor
+	3.2. RAM
+	3.3. Harddisk
+	3.4. Motherboard
+
+3.1. Processor
+--------------
+It is the brain of the computer. It is the core hardware component of the computer that performs arithmetic, comparative/relational and logical operations within the computer system.
+
+Arthematic operations:
+	1. Addition
+	2. Substraction
+	3. Multiplication
+	4. Division
+	5. Modulus
+	
+Relational operations:
+	1. GreatherThan
+	2. LessThan
+	3. GreaterThanOrEqual
+	4. LessThanOrEqual
+	5. EqualTo
+	6. NotEqual
+	
+Logical Operations:
+	1. And
+	2. Or
+	3. Not
+	
+Arthematic operation: 10 + 20 = ?
+Relational operation: age >= 65 (T/F)
+Logical operations: age >12 and age < 20 = (Teen)
+
+3.2. RAM(Random Access Memory)
+------------------------------
+It acts as an primary memory of the computer. It is an volatile memory and all the data that is stored within the RAM will be erased upon restarting the computer.
+The processor fetches the data from the RAM to perform operations and upon completing the operation it deletes/erases the data from the RAM.
+
+Note:- Purpose: All the data that should be used by the processor to perform computation operation will be brought and placed within the RAM, so that the processor can fetch/access the data quickly.
+
+3.3. Harddisk
+-------------
+Harddisk is an permanent storage memory of the computer. The data that is stored within the harddisk of the computer will be permanent and will not be erased even with the restart of the computer.
+
+It is an mechanical device and uses magnetic disks for storing the data. Since it is an mechanical device, reading the data from the harddisk is very slow and will not match will the clock-speed of the processor.
+
+So if the processor is fetching the data from harddisk, since it is very slow, the processor becomes very slow in performing the operation, so always the data is transferred from harddisk to the RAM, so the CPU can quickly read the data from the RAM to perform operation.
+
+3.4. Motherboard
+----------------
+All the hardware units of the computer are inter-connected and comunicated with each other through the help of motherboard of the computer.
+
+
+Q.) Who and how does the computer perform the computation operation?
+Ans: 
+The processor is the core component that performs the computation operation within the computer. It is an electronic, an electronic device has only 2 states:
+1. On  = Power On
+2. OFF = Power Off
+
+These are represented with 1(On) and 0(Off) respectively. So the only language the processor can understand allowing us to interact with is 1s and 0s only which is called "Machine Level Language".
+
+All the human data is represented in decimal number system base(10), so inorder to pass that as an input to the processor we need to convert the decimal number into binary format. The processor upon computing the data produces binary number which inturn has to be converted into decimal format.
+So there are 2 operations we need to perform always inorder to interact with the processor of the computer.
+a. Binary number -> Decimal number (output) = sum (2^position * bit)
+b. Decimal number -> Binary number (input) = LCM(2)
+
+Example:
+22 + 33
+	
+1. 22     = 10110 
+	  (10)       (2)
+	
+2|22	
+ -----
+2|11 - 0	
+ -------	
+2| 5 - 1
+ -------	
+2| 2 - 1
+ -------
+2| 1 - 0	
+	
+2. 33    = 100001
+	  (10)        (2)
+	
+2|33
+ --------
+2|16 - 1
+ --------
+2| 8 - 0
+ --------
+2| 4 - 0
+ --------
+2| 2 - 0
+ --------
+2| 1 - 0	
+	
+binary addition:
+
+22 =	010110
+33 =	100001
+	   ----------
+	    110111
+	          (2)
+	
+let us convert this binary number into decimal number as below
+
+ 1     1     0       1      1       1
+ *     *     *       *      *       *
+2^5 + 2^4 + 2^3  +  2^2  + 2^1   + 2^0
+--------------------------------------------
+ 32 + 16  +  0   +   4   +  2    +  1 = 55
+---------------------------------------------------------------
+
+1. Machine-Level Language
+-------------------------
+The machine(processor) can only understand the data that is expressed/represented in 1s and 0s only which is called machine-level language.
+
+For humans it is hard to memorize numbers/digits in representing the information, so to overcome this problem in using the computers, the people has introduced Assembly-Level Language.
+
+2. Assembly-Level Language
+--------------------------
+The assembly level language provides instructions expressed in simple english language words which are even called as "keywords" that can be understood by the processor of the computer.
+
+For each type of operation we wanter to perform using the processor, there is an relevant keyword has been defined or standardized
+a. addition = ADD
+b. subtraction = SUB
+c. multiplication = MUL
+d. division = DIV
+e. modulus = MOD
+f. store = STORE
+g. fetching = FETCH
+
+Now humans can easily memorize these keywords and can use for writing instructions, so that it can be passed as an input to the processor of the computer asking to perform operations.
+
+Note:- The assembly-level language instructions differ from processor to the processor(different for different hardware architectures)
+
+Drawbacks:-
+a. Since the keywords or the instructions of the assembly-level language differs from one hardware architectures to another, memorizing them and programming across different processor models is very hard.
+
+b. The instructions/program we wrote using assembly-level language will not be portable across different processors that makes hard to work with different processors.
+
+
+------------------------------------------------
+Q.) What is Operating System?
+Ans: An operating system is a system software that sits between the enduser and the hardware of the computer.
+It provides #2 core features as below:
+a. It ensures the program written by the users are portable across the hardware platform by translating the program instructions into harware(processor) specific instructions, so that those can be executed on any hardware.
+
+b. Provides sophisticated environment with rich set of tolls and utilities, that helps the enduser to easily iteract with the hardware of the computer.
+
+Note:- The more the hardware platforms or architectures the operating system supports, the more it will be powerful, 
+
+An operating system(OS) is a software that acts as a middleman or a bridge between computer hardware and the computer user. It provides a user interface and controls the computer hardware so that software can function.
+
+Types of Operating System
+1. Desktop Operating System, e.g., Microsoft Windows, macOS and Linux such as Ubuntu.
+2. Server Operating System, e.g., Windows Server, Linux distributions like CentOS, Red Hat Enterprise Linux
+3. Mobile Operating System, e.g., Android, iOS, Windows Mobile
+4. Embedded Operating System used in devices like routers, smart TVs, automobiles, home appliances, etc.
+5. Real-Time Operating System (RTOS) used in critical systems like medical equipments, car ECUs, aerospace, defense, network firewalls, home security system, etc.
+---------------------------------------------------------------
+
+Learning Linux operating system
+1. File and Folders
+2. Install or upgrade softwares
+3. Users, Grant permissions allowing them to access
+4. Programs and manage them
+5. Networking 
+6. Securing Files and Programs
+7. Manage system resources
+8. utility programs
+--------------------------------------------------
+
+Q.) What are linux distros?
+Ans: Different groups of softwares and configurations choices that are maintained by individuals or organizations distributed to the public is called distro.
+
+There are 4 major distributions:
+1. Arch
+2. Debian
+	2.1. Linux mint
+	2.2. Ubuntu
+	2.3. Elementary OS
+	2.4. Kali Linux
+3. Redhat
+	3.1. CentOS
+	3.2. Fedora
+	3.3. Redhat Enterprise Linux
+4. Slackware
+---------------------------------------------------------------
+Q.) What is Linux?
+Ans:
+    > Linux in simple terms, is a free and open-source operating system.
+    > It's similar to Windows and macOS, but it's different in several ways.
+    > Linux is very popular for it's stability, security and flexibility. It can be modified and distributed by anyone which let to many different versions, known as "distributions," and each distributions is tailored for different uses.
+    > It's open-source nature means that a community of developers and users contribute to its development.
+
+Q.) Why learn Linux or its importance?
+Ans:
+    > Widely used in servers and cloud computing
+    > Free software philosophy
+    > Strong command line interface
+    > Faster processing
+    > Enhanced security
+    > Customization because of open-source nature
+    > Community support
+    > Understanding of other operating systems
+    > Career opportunities
+
+Q.) What are the features of Linux operating system?
+Ans: Features of Linux operating system
+1. Portable
+Linux operating system can work on different types of hardware as well as linux kernel supports installation on any kind of hardware platforms.
+
+2. Open Source
+Source code is freely distributed and it is community based development project.
+
+3. Multi-User/Multi-Programming operating system
+It can be used by multiple users at a time and can share the system resources like RAM, CPU,etc.
+Multiple application programss can also run simultaneously or in-parallel as well.
+
+4. Hierarchial File System
+Linux operating system affords a standard file structure in which system files and user files are arranged.
+
+5. Shell
+Linux operating system offers a special interpreter program, that can be used for executing commands on the operating system kernel called "Shell".
+In other words: Shell is an inter-preter program using which we can easily communicate with the kernel of the operating system.
+
+6. Security
+Linux operating system offers user security systems using authentication features like encryption of data, password protection and controlled access to particular files/folders.
+--------------------------------------------------------------
+
+Linux Architecture
+------------------
+1. Hardware Layer
+It consists of all the peripheral devices like(RAM, Processor, Harddisk, etc)
+
+2. Kernel
+It is the core component of the linux operating system, that interacts directly with the hardware of the computer. It provides low-level services to the upper components.
+
+3. Shell
+Shell is an interpreter program, that acts as an interface to the kernel. It hides the complexities of kernel functions from the users. The shell takes the shell commands from the user and executes them on the kernel by invoking kernel functions.
+
+4. Software Tools/Utilities
+These are programs provides the users most of the functionality of an operating system.
+
+-------------------------------------------------------------
+
+Shell
+-----
+Interacting with the kernel of the linux operating system is very complex, users of the computer should know complex programming instructions provided by the kernel in writing the programs in talking to the kernel of the operating system.
+
+To help the users to easily interact with the linux operating system in using the computer, the shell utility programs are introduced.
+
+Shell is an interpreter program that provides simplified cli command/instructions that can be used by the users of the computer, upon issuing a command to the shell, it takes the command and executes an relevant kernel program to perform appropriate operation, captures the result and returns to us. So that working with linux operating system becomes easy for the users.
+
+Follow:
+Users > Shell commands/instructions > Shell > (Translate) Kernel programs > kernel > hardware
+
+In-short: Shell can be viewed or visualized as interface between the users and kernel of the operating system.
+
+There are lot of shell utilities being developed and provided by various different people or organizations in the market, this means we have many ways (different interfaces) in interacting with the kernel.
+
+Different shells has different capabilities:
+Few shell interpreter programs provide simplified instructions/commands that fullfill the requirements of basic users of the computer, where someothers provides powerful instructions/commands that allows to perform low-level operations on the computer/hardware.
+
+More or less all the shell interpreters works on all the linux distros as shell works on kernel, and more or less across all the distros kernel is same.
+ 
+So based on the purpose or usage of the user of the computer, he/she has to choose an appropriate shell in interacting with kernel of the operating system.
+
+There are 2 major types of shells:
+1. Bourne Shell = If we are using an bourne shell, the $ character is the default prompt.
+2. C Shell = If we using the C shell, % is the default prompt.
+
+1. The bourne shell has sub-categories:
+	1.1. bourne shell (sh)
+	1.2. korn shell (ksh)
+	1.3. bourne again shell (bash)
+	1.4. POSIX(Portable Operating System Interface) shell (sh)
+
+The default and most used shell across the distros is : bash, it is very popular in the market.
+
+
+Bash Command Structure
+----------------------
+The command is a program or an action we are performing on the underlying operating system of the command.
+
+Structures of the command has 3 parts:
+command [options] [arguments]
+
+Depending on whar we are doing, we might have a command or command with options or command with arguments but always the command is mandatory.
+
+For eg..
+command:
+ls = command, that lists files and folders within the current directory.
+
+command with options:
+ls -l = here -l options
+options are always passed to the command by using "-", these options are used for enhancing or changing the behaviour of the command.
+
+command with arguments:
+ls directory/ = here directory/ arguments
+instead of showing files and folders of the current directory, it lists files/folders under the specified directory/ that is passed as an arguments.
+arguments acts as an input to the command, using which it performs the operation
+--------------------------------------------------------------
+
+Q.) What is a Filesystem?
+Ans: Filesystem is an mechanism or a technic used by the operating system of the computer to store, organize and manage the data on the permanent storage device(harddisk) of the computer.
+Different operating system vendors uses different filesystem techniques.
+Thew allow us to store the data permanently on the storage device of the computer interms of files and folders.
+
+In Windows: It uses
+a. FAT32 (File Allocation Table)
+b. NTFS (New Technology Filesystem)
+
+In Linux: Incase of linux there are various different  filesystem techniques are available over the ages, where most of them are old and may not be using and few of them are being used as below:
+a. EXT = old filesystem technique and is no longer being used.
+
+b. EXT2 = aloows storing 2TB of data
+
+c. EXT3 = came from EXT2 with upgrades and backward compatibility. But there is a problem with EXT3 filesystem, it doesn't support recovery of disk snapshots. So servers will not use this filesystem.
+
+d. EXT4 = Faster and allows large files with significant speed and it is default filesystem being used upon installing linux operating system on our somputer.
+
+e. JFS = old filesystem techique developed by IBM. It works well with small and big files too, but files are corrupted over the time.
+
+f. XFS = old filesystems works slowly with small files.
+
+g. BTRFS = made by oracle. It is not stable as EXT in some distros, but it has good performance and not longer used in the market.
+
+Note: Out of the above filesystem techniques, the newest and default filesystem technique that is being used aspart of the linux operating system is "EXT4".
+---------------------------------------------------
+
+Linux operating system uses hierarchial filesystem technique in storing and managing the data on the harddisk or storage device of the computer.
+
+Hierarchial
+-----------
+Anything that is expressed /represented in parent/child relationship manner is called "hierarchial" representation. It is inverted tree format.
+
+Hierarchial representation always starts with one single root node that indicates the start.
+A parent can have any number of child nodes, but always a child belongs to one single parent only.
+
+Incase of windows OS, they don't use hierarchial filesystem technique, we have multiple roots of the storage in windows which are called "drives(c:\,d:\,e:\,...)", means each drive is an root. Now user has to navigate through these drives to locate and access the data that are stored on the harddisk.
+
+Unlike windows filesystem, linux OS uses hierarchial filesystem which means always linux has one single root only "/".
+
+Linux Filesystem Directories:
+During the time of installing the linux operating system, it creates standardized directories on the harddisk of the computer to store, organize the files of the operating system and the users.
+
+The linux filesystem being hierarchial will starts with a root represented with "/", and all the files and directories are the children of this root only.
+
+/ (root)
+|-/bin = linux core commands resides under the bin directory (like ls, cd, touch, mkdir, etc)
+|-/boot = boot loader files are placed in the boot directory
+|-/dev = all the physical devices like harddisk, pendrives, usbs, diskdrives are mounted here
+|-/etc = configuration files of the installed software packages are placed here
+|-/home = For each user of the linux OS, linux creates a sub-directory under /home, that acts as an home directory of that user
+|-/lib = library files of the installed software packages are placed here, because libraries are commonly shared across the software packages
+|-/media = all the multi-media devices like music players(ipods), cameras, dvds are mounted and made accessible from here
+|-/mnt = the network drives or network storage devices are mounted here. In few distros we may find usb or dvd also mounted here instead of '/media'
+|-/opt = all the optional software packages are installed and placed here
+|-/proc = everything in linux is a file. The /proc directory holds the information about all the running program on the linux OS
+|-/root = this is the home directory for the root user
+|-/sbin = super(root) user commands are placed here
+|-/tmp = temporary files are placed here
+|-/usr = utilities and files shared between the users are placed here
+|-/var = var stands for variable large object files, this directory holds the system logs and other variable data
+
+Inorder to see the above filesystem directories, upon login to the OS, open terminal and then type below command:
+cd / = navigate or change directory to "/" (root)
+ls -l = list all the files and folders under the current directory in long-listing format.
+
+We can see the files and folders under an given directory using tree command. Tree shows all the directories along with their sub-directories under the specified directory in a tree like structure visually.
+
+By default the tree software package is not available aspart of ubuntu OS, we need to explicitely install it using the below command:
+
+sudo apt update -y
+sudo apt install -y tree = this will install tree command software package.
+
+Note: sudo is used for executing any linux command under root user previlege or permission, so it prompts for root user password.
+
+Using the tree command we can see the directories under "/" by using the below command
+
+cd /
+tree -L 1
+
+
+Q.) What is a file?
+Ans:
+Internals:
+File is an datastructure in which OS stores the address location of the data where it has been stored on the harddisk of the computer. In addition to this the OS captures few more attributes of information pertaining to the data as well like
+a. Filename
+b. created date
+c. modified date
+d. owner
+etc.
+
+Inorder to access the data that we have stored on the harddisk of the computer, we need to ask the OS to fetch the data from the address location where it is stored, since the address location of the data is stored within the file, we can always ask the OS to refer these addresses stored in the file in fetching and returning the data.
+
+Even though the data is not directly stored within the file, rather file contains address locations where the data is stored, by the way we interact with OS in asking them to store or fetch the data from the file makes us think actually the data is stored within the file itself.
+
+So from logical definition:
+File is an datastructure or physical memory location within the harddisk of the computer in which the data is being stored and accessed.
+
+Q.) How to create an file on the filesystem of the computer?
+Ans:
+Each linux user has their own home directory location for which they have permissions in creating/accessing the files/folders.
+So we need to navigate to the user home directory inorder to create a file
+
+touch filename
+touch is the command used for creating an empty file with no data inside it under the current working directory.
+
+1. How to see the current working directory?
+pwd = print working directory
+
+2. How to print an message onto the terminal window or console or stdout?
+echo "message"
+echo is an bash command used for printing or writing an message on to the terminal
+
+3. How to create an file with data being stored inside it?
+Every linux command when we execute will produce some output, the output that is generated by the program/command will be written directly onto the console(STDOUT). Similary a program/command takes the input data from the keyboard which is referred to as STDIN.
+
+Incase if we want to change the destination to which the program has to write the output other that STDOUT or change the source from which it takes the input other than STDIN, the we need to use redirection operations in linux bash which are ">" and "<".
+
+> = redirection operator for redirecting the output
+< = redirection operator for redirecting the input
+
+echo "good morning" = writes the "good morning" message directly onto the STDOUT, incase if we wish to redirect the output instead of STDOUT to an file then we can use ">" operator here
+
+echo "good morning" > greetings.txt
+
+6. How to see the contents or the data stored inside a file?
+cat filename
+cat command is used for displaying the contents of a file
+
+for eg..
+cat greetings.txt
+
+
+Q.) What is an folder or a directory?
+Ans: Folder is an special type of file in which we hold the pointers to the other files on the filesystem of the computer. Folder is a way through which we can group or organize the related sets of files together, so that we can access them quickly by navigating into that folder.
+
+In-short: A folder is an collection of related-set of files kept together.
+
+1. How to create a folder or directory?
+mkdir directoryName
+
+mkdir stands for make directory(create directory) with the given directoryName. It creates the empty directory under the current working directory.
+
+Assignment:
+How to create the directory structure with files as below under user home ($HOME) directory?
+$HOME:/>
+todolist
+|-082024 (here)
+	|-librarysubscription.txt
+	|-collegeadmissions.txt
+	|-tripToHomeTown.txt
+|-092024
+	|-chesscompetition.txt
+	|-officetravel.txt
+	|-movies-wishlist.txt
+|-102024
+	|-financial
+		|-new-sb-accounts.txt
+		|-newpolicy.txt
+		|-pay-creditcard-balances.txt
+	|-personal
+		|-vacation-plan.txt
+
+Linux command
+-------------
+#1. cd
+Inorder to switch between the directory of the filesystem we need to use cd bash command.
+
+1. How to change to the specified directory.
+> cd directoryName
+
+Note: always by using cd we can change to the directory within the path in which we are in
+
+	d1
+    |	 |    |
+   d2   d3   d4
+    |
+   dc1
+If we are in directory d1, by using cd we can change into one of the child directories of the d1 which are (d2, d3, d4) only.
+
+If we are ind2 directory, we cannot directly jump to d3 directory, we need to navigate to one-level up means parent so that we can goto any of the child of the parent.
+
+2. We can change to the root of the filesystem by using
+> cd /
+"/" = always represents root if it is used alone.
+
+Note: Linux filesystem is hierarchial and starts with only one root indicated by "/".
+
+In addition we can use "/" as an separator between the directories as below
+	d1
+	|
+	d2
+	|
+	d3
+We are in d1 and wants to navigate to d3, unless we go into d2 we cannot goto d3. 
+For this one way we can switch to d2, i.e.
+~/d1:/> cd d2
+~/d1/d2:/> cd d3
+we need to run #2 times the cd bash command to switch to d3
+
+Instead of this we can switch to d3 directly at oneshot by specifying the path to the directory d3 by using "/" as an operator as below
+~/d1:/> cd d2/d3 = This means first goto d2 and then after goto d3. We are specifying at one shot by giving the complete path of navigation through "/".
+
+3. How to navigate to the parent directory of the current directory
+> cd ..
+
+4. How to navigate to the home directory location of the user
+a. cd
+
+b. cd ~ (tidle, character below the esc key on the keyboard)
+
+~ = it always represents the HOME directory of the user
+
+c. cd $HOME
+$HOME = It is an  predefined variable always points to the home directory of the current user.
+
+Note: There is no difference between ~ and $HOME, both are same and it's just a convinience of typing the command.
+
+5. How to navigate back to the directory from where we came
+> cd -
+takes back to the previous working directory from where we navigated from
+=====================
+#2. ls
+ls bash command is used for listing files and folders of a given directory. By default if no directory has been passed as an input, it shows/lists files and folders of the current working directory.
+There are many forms of "ls":
+
+1. How to see all the files and folders in the current working directory
+> ls
+
+2. How to see the files and folders of a specific directory other than the current working directory
+> ls directoryPath
+
+for eg..
+~/todolist/102024/finance:/>
+now we want to see files and folders in 082024 directory from here
+
+~/todolist/102024/finance:/>cd ../../082024
+		(OR)
+~/todolist/102024/finance:/>cd ~/todolist/082024
+
+3. How to see the files/folders along with sub-directories of the specified directory respectively?
+> ls -R directoryName
+here R stands for recursively
+
+for eg..
+~/>todolist
+   |-082024
+		 (files)
+	 |-092024
+		 (files)
+	 |-102024
+		 |-personal
+		 	(files)
+		 |-finance
+		 	(files)
+	
+~/todolist:/>	ls 
+ls = only shows the files/folders of the current working directory. it doesnt shows the child directories and their sub-directory contents recursively
+but if we wish to see the contents of the current working directory along with child directories recursively we can use
+> ls -R /todolist
+
+4. How to list files/folders using ls with no color?
+> ls --color=none
+
+Note: ls command by default lists all the files and folders using color coding. If it's an directory, it displays it in blue color and if it's an plain file, it displays in white color. If it's an executable file, then it displays in green color.
+
+5. How to see the long listing of fies and folders using ls?
+> ls -l
+displays long list of files and folders with lot of information in tabular format
+FileType Permissions SymLinks owner group size(kb) last modified dat filename/directory
+
+FileType: is the first character in the list that indicates what type it is
+d = directory
+- = regular file
+
+6. How to see the output of ls in human readable format?
+> ls -lh
+h = human readable format, that means the size are displayed in kb, mb, gb based on its size.
+=======================
+#3. How to know type of a file
+A file can be:
+a. text file
+b. audio
+c. video
+d. image
+e. pdf
+etc
+By looking at the file, how do we determine what type of file it is?
+In general when we are creating the files, we use file extensions to specify what type of file it is by using 3 characters
+Windows OS heavily relies on .3 character extension to identify the file type and associate applications in using that file.
+
+for eg..
+If the filetype is
+i. .jpeg or .png or .gif = windows OS opens the file in Image Viewer Application
+ii. .mkv = opens in video player application
+iii. .txt = opens in notepad or textpad
+
+So from the above, identifying the filetype is very important for an OS to associate a default program in using that file.
+
+Bu when it comes to linux OS, it doesn't uses the file extensions to determin what type of file it is. So it means we don't have to create files in linux OS with extensions.
+
+Then how does linux OS identifies the type of the file?
+Linux will determine what type of file it is by looking into the contents of the file automatically.
+
+But when it comes to user, if the files are created without extensions, we cannot know by looking at the filename what type of file it is?
+To help us in identifying the type of the file, linux OS bash interpreter has provided "file" command
+
+> file filename
+displays the type of the file
+===============================
+
+#4. How to see the details of a file?
+The details of the file means 
+	- author
+	- last modified date
+	- size
+	- permissions
+	- memory address location on the harddisk
+
+> stat filename
+stat stands for statistics, it gives us the statistical information about the file
+==================================
+
+#5. rm
+rm stands for remove and is used for removing/deleting a file from the filesystem.
+Note: Once we remove the file using rm, it is an permanent delete and cannot be restored.
+
+1. How to remove an existing file?
+> rm filename
+
+2. How to remove multiple files?
+For eg..
+$HOME
+|-favorites
+|-wishlist
+|-stories
+
+> rm favorites
+> rm wishlist
+> rm stories
+
+Note all the linux commands takes multiple arguments as inputs, rather then typing 3 times the same rm command, we can pass #3 filenames as input at one shot
+
+> rm favorites wishlist stories
+
+3. How to delete a directory?
+There are 2 ways we can delete a folder or a directory
+
+#first approach:  
+> rmdir directoryName
+
+emdir deletes/removes a directory only when the given directory is empty. If the directory is not empty, we should manually go into the directory and remove all the files and sub-directories inside it before deleting the directory.
+
+for eg..
+$HOME
+|-library
+  |-comics
+	|-file.txt
+	|-adventure
+		|-action
+			|-file2.txt
+		|-war
+			|-file3.txt
+
+if we want to delete the directory "library", first we need to delete file2.txt, war, file2.txt, action, adventure, file.txt, comics and then finally library
+Starts with the lowest in the hierarchy to the top, this is safe approach of deleting the directory, because we always knows what we are deleting.
+
+But it is lengthy process and if we have lot of sub-directories with files, we need to navigate all the way down in the tree and delete and takes more time.
+
+Instead we can use #2 approach
+
+#second approach:
+> rm -r directoryName
+
+here r stands for recursively delete all the files/folders under the specified directory along with the given directory.
+
+4. How to forcibly delete a file on the filesystem?
+> rm -f filename = it won't prompt for confirmation while removing special files.
+===============================
+
+#6. Moving files and folder
+---------------------------
+mv stands for move, it is used for moving a file from one directory to other directory.
+
+$HOME
+|-tourplans
+	|-aug
+		|-trip1.txt
+	|-sep
+		|-trip2.txt
+	|-oct
+		|-trip3.txt
+|-archives
+
+1. How to move a file from one directory location to a different directory location?
+> mv sourceFile destinationDirectory
+
+for eg.. move trip1.txt file from /aug directory to /sep directory
+~/tourplans> mv aug/trip1.txt sep/  
+
+2. How to move a directory along with its conents from source to the destination directory?
+> mv tourplans/aug archives/
+
+for eg.. move tourplan/aug/ to archives/ directory
+~/> mv tourplan/aug archives/
+
+3. How to move the contents of a directory into another directory?
+Note: Here we don't want to move sep/ directory rather just move the contents of the sep/ directory into archives/
+
+~/> mv tourplans/sep/* archives/
+
+4. How to rename a file or directory?
+Ans: In bash, there is no command for renaming a file or directory. But we can logically rename a file or directory by using "mv" itself.
+
+$HOME
+|-products
+	|-footwear.txt
+	|-kitchen-appliances.txt
+	|-furniture.txt
+
+We want to rename kitchen-appliances.txt to appliances.txt
+~/products> mv kitchen-appliances.txt appliances.txt
+
+If we don't specify the destination directory and gave another filename, it works as rename.
+
+To rename a directory in the mv specify the destination directory as non-existing, so that it consider it as a rename.
+~/> mv products globalProducts
+=======================================
+
+#7. cp
+cp stands for copy used for copying files/folder from one locationto the another location or just to duplicate the files or folders by creating one more copy. By using cp, the source/destination files will not be moved(it is not cut/copy), rather it would only copy the existing file into new directory.
+
+$HOME
+|-products
+	|-popular
+		|-mens-fashion.txt
+		|-clothing.txt
+		|-jewellery.txt
+	|-trending
+
+1. How to copy a file from one location to another location?
+Copy clothing.txt from popular/ directory into trending/ directory using cp command
+~/products:/> cp popular/clothing.txt trending/
+
+During the time of copy we can specify a different name with which the file should be copied into the destination directory as below:
+~/products:/> cp popular/mens-fashion.txt trending/mens-apparels.txt
+
+Now the mens-fashion.txt file will be copied into trending/ directory with name mens-apparels.txt
+
+2. How to copy a directory along with its contents into another directory?
+cp only copy the file from one location to another location.
+cp by default doesn't works for directories. If we want to copy the directory and its contents into a different location we need to user -R(recursively) switch.
+
+$HOME
+|-products
+	|-popular
+		|-mens-fashion.txt
+		|-clothing.txt
+		|-jewellery.txt
+	|-trending
+
+warehouse/
+
+We want to copy popular/ directory into warehouse/
+~/products:/> cp -R popular/ warehouse/
+ 
+If we want to just copy the contents of the popular directory into warehouse/
+~/products:/> cp -R popular/* warehouse/
+================================
+
+#8. Redirector operators
+------------------------
+Every bash command takes the input data(if any) from the STDIN(keyboard) and writes/generates the output onto STDOUT(console/monitor). If we want to change the input(STDIN) or output(STDOUT) of the bash commands then we need to use redirector operators.
+
+There are 2 types of redirector operator:
+a. < = input redirector operator, to redirect the input for a bash command.
+b. > = output redirector operator, to redirect the output out of a bash command to a different destination other than STDOUT.
+
+1. How to write an output message onto the STDOUT?
+~/> echo "message"
+
+The echo bash command takes an message as an input and writes that to the STDOUT.
+If we want to redirect the output generated by the echo to a different destination other than STDOUT then we can use ">" output redirector operator.
+
+for eg.. If we want to write the output generated by the above echo bash command into a file, then we can use output redirector as below:
+~/> echo "message" > filename
+~/> echo "Good Morning" > greetings
+
+Note: If the output file we specified here is an existing file with data, it will replace the contents of the file with new output that is being generated. Incase if the file we specified doesn't exist, it creates an new file by writing the content.
+
+If we don't want to replace the contents of the existing file rather if we wish to append to the existing data, we need to use ">>" (append operator)
+
+~/> echo " James!!" >> greetings
+
+Now the greetings file will be appended with " James!!"
+
+2. How to create an file with data by reading the data from the STDIN(interactively) from the user?
+Creating a file with data interactively
+~/> cat > filename
+
+Every linux command takes the input from the STDIN and writes the output to STDOUT
+
+cat filename = takes the input from the file we passed and writes the output to STDOUT. Here already input redirection is happening because cat is not taking the data from STDIN, rather it is taking the input from the file we supplied.
+
+cat filename is equal to cat < filename
+From this we can understand, for any command if we are passing argument means we are using input redirection implicitely.
+
+So if we don't supply any filename as an input, the cat takes the input from STDIN and writes the output to STDOUT
+~/> cat
+Now the cursor waits from the input from the keyboard and writes the output to STDOUT until we press ctrl+d, it keeps going.
+
+3. How to copy the contents of one file into another file without using cp?
+~/> cat < file1 > file2
+==================================
+
+#9. Using regular expression within the bash commands
+There are 3 characters we can use as expressions aspart of the bash commands
+1. * = for any character of any match
+2. ? = single character match
+3. [] = given a range of characters within which a single character match
+
+$HOME
+|-products
+	|-lg-32-led-television.txt
+	|-lg-40-led-television.txt
+	|-lg-55-4k-television.txt
+	|-samsung-32-led-television.txt
+	|-samsung-40-qled-television.txt
+	|-samsung-55-qled-television.txt
+	|-lg-75-oled-television.txt
+	|-sony-bravia-32-lcd-television.txt
+	|-boss-speakers.txt
+	|-boss-7.1-home-theater.txt
+	|-hytachi-7.1-home-theater.txt
+	|-sony-5.1-home-theater.txt
+	|-apple-15-pro-mobile.txt
+	|-samsung-S23-ultra-mobile.txt
+	|-google-pixel9-mobile.txt
+	|-playstation5-gaming-console.txt
+	|-xbox-x10-gaming-console.txt
+	|-nintendo-switch-gaming-console.txt
+	|-hp-pavilion-16inch-laptop.txt
+	|-dell-inspiron15-laptop.txt
+	|-apple-macbook15-laptop.txt
+	|-dell-lattitude700-laptop.txt
+	|-acer15-laptop.txt
+	|-ibm-lenovo16-laptop.txt
+
+1. How to see all the list of files and folders within the products/ directory?
+~/> ls -l products/
+
+2. How to see all the files and folders inside the products/ directory manufactured by apple?
+~/> ls apple*
+
+3. How to see all the televisions of led type?
+~/> ls *led*-television.txt
+
+4. Show all the products manufactured by any vendor whose brand name has 2 characters only?
+~/> ls -l ??-*
+
+5. Show all the laptops manufatured by any vendor whose brand name starts with "d" or "h"?
+~/> ls -l [dh]*-laptop.txt
+
+6. Remove all the laptops within the products/ directory?
+~/> rm *-laptop.txt
+
+7. Copy all the sony products into sony/ sub-directory within the products
+~/products:/> mkdir sony
+~/products:/> cp sony* sony/
+
+8. Move all the televisions into televisions/ sub-directory within the products?
+~/products:/> mkdir televisions
+~/products:/> mv *-television.txt television/
+===================
+
+#10. Working with ranges in bash commands
+We want to execute a shell or bash command repeatedly over the range of arguments/inputs then we need to use ranges repeatedly with {}
+
+For eg.. We want to print 1 to 5 numbers onto the console, this can be done by using echo as below
+~/> echo 1
+~/> echo 2
+~/> echo 3
+~/> echo 4
+~/> echo 5
+
+It is time taking and repeatitive in executing the same command only with different input/argument passed. The argument value is taking a range of values from 1 to 5, in this case instead of repeatedly writing the same echo command we can use ranges
+~/> echo {1..10}
+
+We want to create dairy files for all the days within the month.
+For eg.. Aug month has 31 days, we want to create dairy files with dairy-day1.txt dairy-day2.txt dairy-day3.txt .... dairy-day31.txt
+~/> mkdir aug
+~/> cd aug/
+~/aug:/> touch dairy-day1.txt
+~/aug:/> touch dairy-day2.txt
+..
+
+Instead we can directly use ranges as below
+~/aug:/> touch dairy-day{1..31}.txt
+
+1. How to remove the dairy files between 20 to 29 days?
+~/aug:/> rm dairy-day{20..29}.txt
+
+Note: The ranges can be used on alphabets also as below:
+~/> echo {a..z}
+
+Note: There is an difference between [] and {}:
+	[] = group of inputs(choice of inputs) = within the group we are choosing one
+	{} = range of inputs
+============================
+
+#11. Hidden files in linux OS
+In linux OS, if we create a file/folder starting with "." aspart of it, then linux treats the file/folder as hidden and will not be displayed when we use ls command.
+
+~/> touch .passwords 
+As the above file starts with ".", it will be treated as an hidden files
+
+When we use ls command, these 2 files and folders will not be shown. Incase if we want to see these hidden fies, we need to use "-a" switch in ls command (-a stands for all)
+~/> ls -la
+======================================
+
+#12. Working with more
+When we are using linux bash commands, these commands produces the output upon execution, sometimes the output generated by these commands are pretty huge and will not fit onto the screen or terminal buffer and would automatically scrolled up.
+
+Along with this the terminal buffer size is always limited and can hold only few lines of last generated output and previous output would be rolled up(cleared) automatically.
+
+Due to this we will not be able to read easily or scroll-up back into the previous lines of output generated by the bash command. If we want to see all the output of a command and scroll through it line by line, we can use "more" utility with any bash command.
+
+~/> tree /
+Since we ran tree command on "/" root of the filesystem, it generates huge amount of output and auto-scrolls the content, we can use "more" for scrolling through the lines easily
+~/> tree / | more
+
+book.txt = Inside this book.txt file, we have 1000 lines of story or contents, when we use cat command, the output generated by the cat will be rolled-up(cleared) automatically only by showing last few lines of output. We can use "more" here as well for scrolling through the output of cat as below:
+~/> cat book.txt | more
+==============================
+
+#13. head and tail commands
+---------------------------
+head and tail are the most popular and frequently used bash commands in scrolling through the log files while debugging.
+
+a. head
+-------
+head is something similar to cat. The "cat" is used for seeing the contents of a file similar to that head is also being used
+
+We have a file with huge content around 1000 lines or more inside it. If we use cat command, it renders all the 1000 lines leaving or taking us to the bottom of the terminal displaying last pasge of the content only and few times we will not be able to scroll-up due to the terminal buffer size.
+
+~/> cat filename = renders the entire content of the file
+
+Instead if we are only interested in top few lines of the files, rather than all the content of the file, we can use "head"
+
+~/> head filename = only displays the top 10 lines by default as an output
+
+If we want to see only specific number of lines from the top of the file, then we can use -n option as below
+~/> head -n filename
+
+for eg..If we want to see only top 5 lines, we can use
+~/> head -5 filename
+
+b. tail
+-------
+tail is also same as cat, means it is also used for seeing the contents of a file. But it is used for seeing only the latest or bottom lines of a file. Usually tail is used for accessing the log files that are generated by the applications.
+
+~/> tail filename = By default shows the bottom 10 lines within a file
+~/> tail -n filename = Shows the specified n number of lines from the bottom of the file.
+
+tail has another option called -f. -f stands for flow of the file
+
+There are programs that runs longer amount of time and keeps generating the log output and writes on to the log file. If we want to monitor the program execution and see the continuous logg output  generated by the program during its execution, we can use -f option
+
+~/> tail -f out.log
+This will allow us to stream/browse through the live log output generated by the program into the out.log file.
+
+Q.) Write a shell program that generates a bunch of numbers and writes to an log file, so that we can see the live log output using -f option in tail command.
+
+a. Inorder to write the shellscript program we use gedit(like notepad in windows) text editor as below
+~/> gedit printNumbers.sh
+#~/bin/bash
+I=1
+while [ $I -lt 200 ]
+do
+	echo $I >> /tmp/out.log
+	I=$[I+1]
+	sleep 1s
+done
+
+b. grant execute permission to the program
+~/> chmod u+x printNumbers.sh
+
+c. run the program
+~/> ./printNumbers.sh
+
+d. open a new tab in the console and use tail -f to view the live log generated by the program
+~/tem:/> tail -f out.log
+================================
+
+#14. How to compare the contents of 2 different files?
+There are 2 bash commands for comparing the contents of the files
+a. cmp
+b. diff
+
+a. cmp
+------
+cmp stands for compare, it is used for comparing 2 files byte by byte and output the first difference between the file contents
+
+fruits.txt
+apple
+banana
+papaya
+grapes
+
+fresh-fruits.txt
+apple
+banana
+papaya
+oranges
+grapes
+
+When we use cmp for comparing 2 files, it compares fruits.txt and fresh-fruits.txt byte by byte and shows the first difference between those 2 files
+fruits.txt fresh-fruits.txt differ: 21 byte, line 5
+
+If there is no difference between those 2 files, then it will not show any output.
+
+1. 
+~/> cmp fruits.txt fresh-fuits.txt
+fruits.txt fresh-fruits.txt differ: 21 byte, line 5
+
+2. -b option
+If we use -b option, it shows at what byte the difference has been found in the file
+
+~/> cmp -b fruits.txt fresh-fruits.txt
+fruits.txt fresh-fruits.txt differ: 21 byte, line 5 g ascii code o ascii code
+
+3. -i option
+Ignore the specified number of bytes starting from top in both the files while comparing
+
+~/> cmp -i 18 fruits.txt fresh-fruits.txt
+fruits.txt fresh-fruits.txt differ: 3 byte, line 1
+
+4. -i n1:n2 option
+Ignore starting from the top of the file n1 bytes in first file and n2 bytes in second file and compare
+n1 = ignore n1 bytes in first file
+n2 = ignore n2 bytes in second file
+and begin comparing the files
+
+~/> cmp -i 18:20 fruits.txt fresh-fruits.txt
+
+5. -l option
+List all the difference between both the files
+
+~/> cmp -l fruits.txt fresh-fruits.txt
+byteposition line fruits.txt fresh-fruits.txt
+...
+...
+
+
+b. diff
+-------
+diff stands for difference, it is used for comparing the contents line by line within the given 2 files. Not only the diff command helps in comparing the contents, it displays recommendations through special symbols indicating how to make the contents of the 2 files identical.
+
+Symbols
+1. a = add
+2. c = change
+3. d = delete
+4. > = refers to the contents of the file2
+5. < = refers to the contents of the file1
+
+1. add recommendation
+
+groceries
+---------
+chanadal
+urdal
+sugar
+
+groceries_mustbuy
+-----------------
+chanadal
+urdal
+sugar
+rice
+
+~/> diff groceries groceries_mustbuy
+3a4
+> rice
+
+After the 3rd line in groceries add the 4th line of groceries_mustbuy and the 4th line is
+> rice
+
+2. change recommendation
+
+products
+--------
+sony 32inch led
+iphone 15 pro
+bose soundbar
+
+warehouse-products
+-------------------
+sony 32inch led
+iphone 15 pro
+sony playstation5
+
+~/> diff products warehouse-products
+3c3
+< bose soundbar
+----------------
+> sony playstation5
+
+Change the 3rd line products with the 3rd line in warehouse-products.
+The line to be changed in left-side file is 'bose soundbar' and the line in the right side id > 'sony playstation5'
+
+3. delete recommendation
+
+fruits
+-------
+grapes
+papaya
+oranges
+banana
+
+fresh-fruits
+------------
+grapes
+papaya
+oranges
+
+~/> diff fruits fresh-fruits.txt
+4d3
+< banana
+
+Delete the 4th line in fruits, so that from the 3rd line onwards both the file becomes identical
+
+4. multiple differences between the files (recommendations)
+
+vegetables
+----------
+brinjal
+tomato
+chillies
+onions
+potatoes
+beetroot
+carrot
+spinach
+oil
+
+shoppinglist
+------------
+brinjal
+tomato
+sugar
+chillies
+onions
+curryleaf
+beetroot
+carrot
+spinach
+
+~/> diff vegetables shoppinglist
+
+a. add recommendation
+2a3
+> sugar
+
+b. change recommendation
+5c5
+< potatoes
+----------
+> curryleaf
+
+c. delete recommendation
+9d8
+< oil
+==================================
+
+
+#15. man pages
+--------------
+In linux or bash interpreters, every command has plenty of options, it would be practically impossible to memorize all the options of each command to use it. So to help us in quickly browsing through the manual or documentation of a command, linux has provided an utility called "man".
+
+man command
+man stands for manual and provides documentation about the command we asked.
+
+~/> man command
+===================================
+
+#16. wc = word count
+wc is an handy bash utility/command for counting the number of lines, words and characters within the given text file.
+we can use switches in finding the count as below
+-l = line
+-w = words
+-c = characters
+
+~/> wc filename
+By default shows the number of lines, words and characters within the given file.
+If we want we can individually gets the count of each of them using the above described options.
+====================================
+
+#17. How to know the currently logged-in user of the linux operating system?
+Ans:
+~/> whoami 
+=> shows the currently logged-in user of the linux operating system.
+=====================================
+
+#18. How to find all the users who are currently logged-in into the linux operating system?
+Ans:
+Linux is an multi-user operating system, and multiple users can parallely login and can use the operating system of the computer.
+We can find all those list of users using 
+
+~/> who 
+=> shows all the users and TTY of the users there are logged-in
+====================================
+
+#19. 
+Each user who wants to access the linux operating system must and should register by creating an user account. All the users information who are registered with linux will be stored by the operating system aspart of a file.
+
+/etc/passwd
+
+/etc = It is the directory in which installed software package configuration files are stored.
+/etc/passwd = can be accessed by only the super user, so we need to use sudo command while accessing the file contents
+
+~/> sudo cat /etc/passwd
+===================================
+
+#20. How to know the hostname or ip address of the computer?
+
+~/> hostname
+=> It is used for accessing the machine name of the computer.
+
+~/> hostname -I
+=> Displays the ip address of all the network interface cards attached to the computer
+===================================
+
+#21. How to know the os version of the linux kernel?
+~/> uname -r
+=> shows the linux kernel version we are on.
+
+The os name and version of it is stored aspart of /etc/os-release file, we can access this file info using 
+~/> sudo cat /etc/os-release
+
+~/> lsb_release -a
+=> shows the os name and release version
+lsb stands for linux stand base release
+
+~/> hostnamectl
+=> used for querying and changing the hostname and related settings
+=====================================
+
+#22. How do we know which shell interpreter we are using?
+~/> echo $0
+=> shows the name of the shell interpreter we are using.
+=====================================
+
+#23. Working with Pipe operators (Pipes)
+----------------------------------------
+Pipe(|)
+-------
+Pipe is indicated by the symbol "|" and is used for passing the output of an linux command as an input to another linux command.
+~/> command1 | command2
+
+When we join 2 commands with a pipe operator, always the command execution starts with left-most command(here command1), the output that is produced by the command1 will be passed as an input to the command2, performs operation and generates the output onto an STDOUT destination.
+
+In this way we can combine any number of commands together by using pipe(|) operator
+~/> command1 | command2 | command3 ....
+
+Note: Pipes is the most powerful feature of the linux bash interpreter, where we can recreate infinite number of linux command by joining the commands using pipe(|) operator.
+
+1. How many users are currently logged-in into the linux system?
+~/> who | wc -l
+
+Here the "who" returns list of logged-in users that is passed as an input to the "wc" asking to count the number of lines that are there within the output of who.
+
+2. How many user accounts are there within the linux system?
+~/> cat etc/passwd | wc -l
+
+3. How to see only the top 5 files/directories within the given directory?
+~/> ls -l | head -5
+
+4. How to retrieve top 3 eanks within the given files?
+rank
+----
+10
+20
+97
+94
+93
+100
+38
+92
+
+~/> cat rank | sort -gr | head -3
+a. cat = output the contents of the rank file
+b. sort = takes the output of the cat command as an input, does a numeric(-g) sort and writes the output in reverse(-r) order.
+c. head = takes the output of sort as an input and displays the top 3 lines
+
+5. Find the count of word within the 1st line of a file.
+~/>cat book | head -1 | wc -w
+		(OR)
+~/> head -1 book | wc -w
+
+6. Sort and list the files and directories based on the size of the files.
+~/> ls -l | sort -gk 5
+=========================================
+
+#24. find command
+-----------------
+find is one of the powerful command and repeatedly used shell command. It is used for searching the files or folder of the filesystem of the computer matching with the names. By using "find" we can search for files or folders by name including the sub-directories also.
+
+~/movies (10000: collection)
+	|-action
+		|-golden-eye.mkv
+		|-taken
+		|-johnwick
+	|-adventure
+		|-journey
+		|-journey2
+		|-castaway
+		|-indianajones
+	|-comedy
+		|-friends
+		|-deadpool
+		|-badboys
+		|-dumb-and-dumbers
+	|-thriller
+		|-the-mask
+		|-joker
+		|-hush
+		|-aliens
+	|-horror
+		|-anabelle
+		|-nun
+		|-nun2
+		|-conjuring
+		|-exorcist
+		|-evil-dead
+
+We want to find an movie within the movies/ directory or any of the sub-directories, inorder to do this, we need to manually navigate into movies/ directory and all of the sub-directories under it to locate and access an movie we are looking for. But this process of manually looking up/searching through for a movie is time taking process and might endup in failure in locating the file because of human error.
+
+Instead of we manually navigating through the directories for searching the file, we can make use of "find" bash command.
+
+~/> find directory/ -name "filename"
+directory/ = refers to the directory in which we wanted to search for the file with the given name -name "filename".
+
+~/> find movies/ -name "nun"
+
+There are plenty of options in using the find are available
+1. 
+~/> find directory/ -name "pattern"
+It search for the file matching with the filename of the given "pattern" under the specified directory/ including the sub-directories and displays the list of matching filenames along with their path one per each line.
+
+2. 
+~/> find directory/ -name "pattern" -print
+Displays each matching outcome in a new line. (Default option)
+
+3.
+~/> find directory/ -name "pattern" -print0
+Displays all the matching outcomes in one-single line
+
+4.
+~/> find /directory -type f|d -name "pattern"
+-type f = stands for finding only files matching with pattern, ignore the directories
+-type d = only matching directories and ignore the files
+
+5.
+~/> find directory/ =name "pattern" -empty
+Returns all the empty files or folders of the given matching pattern
+
+6. How to search for the files/folder for multi-pattern matching
+List down the file/folder names matching with either pattern1 or pattern2
+
+~/> find directory/ -name "pattern1"
+~/> find directory/ -name "pattern2"
+This will result in 2 list of outputs, rather we want combined output of the files of any matching "pattern1" or "pattern2"
+
+~/> find directory/ -name "pattern1" -o -name "pattern2"
+
+7. How to perform an action or an operation on the outcome of the file command?
+We can use find with -exec option to perform an operation on each outcome returned by the find command
+
+syntax:
+~/> find directory/ -name "pattern" -exec command {} \;
+
+~/> find movies/ -type d -name "a*" -exec ls {} \;
+=================================
+
+#25. grep (content-based searching)
+-----------------------------------
+find is used for searching files/folders matching with their name with given pattern, whereas grep is used for content based searching which means we want to find files(only) whose content is matching with the given phrase or text.
+
+~/ledgers
+	|-customer1-ledger
+	|-customer2-ledger
+	|-customer3-ledger
+	|-customer4-ledger
+	|-customer5-ledger
+
+In each of the ledger files we are storing financial entries of the customers along with their bank accounts. We want to search for the ledger files who holds/carries the financial transaction of a specific bank account no, how can we do this?
+
+We need to goto each customer*-ledger file, open the contents of it, read it to see whether the file contains the bank account no that we are looking for. If there are just 2/3 files, we can quickly look into them by opening each of them, but we have to find over a bunch of files and it would be difficult job and endup in spending huge time and might lead to failure in identifying the files as well.
+
+To help us in quickly searching for the files whose content is matching with given text: grep bash command has been provided.
+
+It is an powerful utility used frequently in searching through the log files for a give "log message" or for an "error".
+
+There are plenty of options are available in grep:
+1. 
+~/> grep "text" filename
+It display all the matching lines of the text specified.
+
+2.
+~/> grep -R "text" directory/
+Search within the given directory including the sub-directories recursively to find the files that contains the "text" content. If found, display the matching lines where the text was found along with filename.
+
+3.
+~/> grep -R -n "text" directory/
+-n print the line number where the text content was found in that file
+
+4. By default grep search for the given text within the file matching with case, if we want to search with ignore case, we can use -i option as below
+
+~/> grep -i "text" filename
+~/> grep -Ri "text" directory/
+
+5.
+~/> grep -w "text" filename
+By default grep performs partial matching and returns the content. Incase if we want to only perform whole word matching then we can use -w option
+
+6.
+~/> grep -o "text" filename
+-o indicates print only the matching words, don't print the matching lines
+
+7.
+~/> grep -c "text" filename
+-c indicates count of matching text within the file
+
+Below options are very useful when we are browsing or accessing the log files for exceptions/errors and information message
+
+8.
+~/> grep -digit "text" filename
+for eg..
+~/> grep -2 "text" filename
+Print along with matching lines, 2 lines above and 2 lines below as well
+
+9.
+~/> grep -Adigit "text" filename
+Print along with matching lines, digit number of lines after the matching line as well
+
+10.
+~/> grep -Bdigit "text" filename
+Print along with matching lines, digit number of lines before the matching line as well
+
+11.
+~/> grep -v "text" filename
+-v stands for inverted match. Print all the lines that doesn't have these matching text
+
+
+grep allows us to use regular expressions also aspart of the text phrases we are searching for, for more complex searches as below:
+1. [] = any one of the single character match within the group
+2. [1-10] = matches one character within the given range of characters
+3. ^ = this pattern must appear at the beginning of the line
+~/> ls -l | grep ^d
+It shows only the directories within the current directory
+
+4. . = matches with any one character
+5. $ = this pattern must match at the end of the line
+~/> ls -l | grep .sh$
+Show only the shell scripting files within the current directory
+
+6. \ = escape character
+7. * = occurence of a pattern zero or once
+8. .* = nothin or any number of matches
+
+Note: List all the contents of a directory other than directories
+~/> ls - l | grep -v ^d
+=====================================
+
+#26. text editors
+-----------------
+Text editors are used for creating new files or modifying existing files or viewing the contents of a file.
+In linux ther are 2 types of text editors:
+1. gui
+In ubuntu distros, the gedit is the default text editor that will be shipped and can be used for editing/viewing the file contents. In addition we can install any third party gui text editors in the market like:
+	1.1. atom
+	1.2. sublime text editor
+	1.3 vs code
+	etc
+
+Q.) How to install vscode editor?
+a. download the .deb file of the vscode editor to the ~/Downloads directory
+b. cd ~/Downloads
+c. sudo apt update -y
+d. sudo apt install -f ./codeXXXX.deb
+
+The same process we can follow installing the atom or any text editor.
+
+
+2. non-gui
+----------
+Majority of the times linux OS is being used in headless mode(no gui), hence any of the above gui based text editors will not be available. So linux OS has provided non-gui text editors to help us in editing or creating or viewing the contents of the files in CLI mode.
+
+There are several non-gui text editors are available aspart of the linux distros. Out of various text editors avaliable, there are 2 popular text editors widely used in the linux OS(across any distros):
+a. vi
+b. nano
+
+a. vi
+-----
+The most popular and default available text editor in majority of the linux distros is "vi" text editor. vi stands for visual editor and a more improved version of the vi editor is vim(stands for vi improved). vim has more options than the vi editor
+
+vi is the classic text editor and is not much user friendly, so a improved version on top of the vi editor has been built with more options which is "vim" editor and is much user friendly.
+
+Majority of the linux distros doesn't provide vim editor, rather ships vi editor only. So inorder to use vim editor we need to explicitely install it by using the below command
+~/> sudo apt update -y
+~/> sudo apt install -y vim
+
+Q.) How to use vi/vim editor?
+There are 3 modes in vi/vim editor
+1. command mode
+2. input mode
+3. exit mode
+
+1. command mode
+Upon opening the vi or vim editor, by default it enters into the command mode. Within the command mode any keypress on the keyboard will not key-in the letter into the file, rather would be considered as a command and performs relevant operation on the contents of the file.
+
+for eg..
+yy = copy the current line
+p = paste
+o = open an new line below the current cursor position
+
+In this way each letter on the keyboard is associated with an relevant operation and would be carried on the contents of the file when we are in "command-mode".
+At anypoint we can return back to the command mode by pressing "esc" key on the keyboard
+
+2. input mode
+In the input mode we can write the data onto the file by typing the keys on the keyboard. To enter into the input mode we need to press "i" key on the keyboard from the command-mode.
+
+Note: In vim editor, it is called "insert" mode
+
+Incase of vi editor:
+When we are in input mode, we cannot move the cursor across the contents of the file by using the arrow keys. The arrow keys are also taken as an input and inserts ascii equivalent data for those keys into the file, so to move the cursor across the contents of the file, we need to mandatorily go back to command mode and use commands to move cursor, thus causing a great level of in-convenience to the user and hence considered as non-user friendly editor.
+
+Incase of vim editor:
+Even when we are in insert mode, we can still move the cursor across the contents of the file by using the arrow keys.
+
+3. exit mode
+Ater entering the data into the file, either we can save the contents of the file or dis-card the changes and can quit from the editor by going into exit mode.
+
+To enter into exit mode, we need to go back to the command mode by pressing "esc" key on the keyboard. Then press ":" on the keyboard, thus enters into exit mode.
+Here we have few options available:
+a. w + enter = write/save the content
+b. q + enter = quit
+c. wq + enter = write and quit
+d. q! + enter = quit without saving the contents
+
+
+1. We can open the editor with a new file by using
+~/> vi filename
+
+This will create an blank file under the current working directory, unless we write and quit, the file will not appear or saved on the harddisk.
+
+Q. What are the commands available aspart of the command mode in vi/vim editor?
+1. A = append the data at the end of the current line
+2. a = append the data at the right-side of the cursor position
+3. I = insert the data at the beginning of the current line
+4. i = insert the data at the current cursor position
+5. O = open a new line above the current cursor position
+6. o = open a new line below the current cursor position
+7. r = replace a single character at the current cursor position
+8. R = replace the text from the current cursor position
+9. S = replace the current line
+10. yy = yanking (copy the line)
+	2yy, 3yy, nyy = copy the specified number of lines from the current cursor position
+11. p = paste
+12. x = delete a character at the current cursor position
+13. dw = delete a word
+14. dd = delete a line(2dd, 3dd, ndd)
+15. u = undo the previous action
+16. b = back to the beginning of the current word
+17. w = beginning of the next word
+18. e = end of the current word
+19. :linenumber = jump to the specified line in the file
+20. G = goto the end of the file
+21. ctrl + f = page forward
+22. ctrl + b = page backward
+
+23. How to search for an text within a file when we are using vi/vim editor?
+a. goto command mode
+b. /phrase + enter = to search for the given text phrase in the file upon pressing enter key, it shows the first matching text occurence within the file. To find the next matching press "n" key and to show previous matches press "shift +n". 
+
+
+2. nano text editor
+nano is another text editor that is popularly being used aspart of the linux OS as an non-gui editor. Unlike the vi/vim being programmers editor that needs to memorize lot of commands in using it, nano is an simple text editor that provides easy commands for editing the contents of an text file.
+
+nano is not available aspart of all the linux distros by default, we need to explicitely install, but in ubuntu distro along with vi, the nano is also provided by default.
+
+Q.) How to use nano editor?
+~/> nano filename
+If there exist already a file with that name, it opens up for editing the file, otherwise creates an blank file for writing.
+
+Q.) What are the commands available aspart of the nano editor?
+1. ctrl + o (enter key) = writes the unsaved changes into the file
+2. ctrl + x (enter key) = quit if there are any unsaved changes it asks for do you want to save or not (y/n)
+3. ctrl + w = search for a word in the file
+4. ctrl + \ = to replace a test phrase with different
+5. ctrl + k = cut the line
+6. ctrl + u = paste the line
+7. ctrl + c = displays the line number, characters with the file
+8. ctrl + / = foto a specified linenumber
+9. alt + e = redo
+10. alt + u = undo
+11. alt + a = goto selection mode to mark the content
+12. alt + 6 = copy the selected content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
